@@ -1,0 +1,24 @@
+.content .text-intro {
+    margin: 220px auto 70px;
+}
+
+.content .text-intro h1{font-size: 35px}
+
+h1.typewrite:after {
+    content: '';
+    width: 30px;
+    display: block;
+    height: 5px;
+    background-color: #000;
+    margin: 40px 0;
+}
+
+.content .text-intro p {
+    font-size: 15px;
+    color: #666;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0;
+    width: 43%;
+    margin-bottom: 20px;
+}
